@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Maël Pasqueraud, apps desktop rapides et légères en Rust, Tauri et Svelte" />
+<img src="assets/banner.svg" width="100%" alt="Maël Pasqueraud, apps desktop rapides et légères" />
 
 <br />
 
