@@ -1,8 +1,31 @@
-<img src="assets/banner.svg" width="100%" alt="Maël Pasqueraud, développeur web, SaaS et apps avec l'IA" />
+<img src="assets/banner.svg" width="100%" alt="Maël Pasqueraud, développeur web, SaaS et IA, administrateur réseau" />
 
-<p>
-  <img src="https://img.shields.io/badge/Rust-16161c?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Tauri-16161c?style=flat-square&logo=tauri&logoColor=24C8DB" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Svelte-16161c?style=flat-square&logo=svelte&logoColor=FF3E00" alt="Svelte" />
-  <img src="https://img.shields.io/badge/TypeScript-16161c?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<p align="center">
+  <a href="mailto:pasqueraud.m@gmail.com"><img alt="Me contacter" src="https://img.shields.io/badge/Me_contacter-18181b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/maelpasq?tab=repositories"><img alt="Voir mes dépôts" src="https://img.shields.io/badge/Voir_mes_d%C3%A9p%C3%B4ts-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## Développement
+
+### Web et SaaS
+
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=white" /> <img alt="Svelte" src="https://img.shields.io/badge/Svelte-18181b?style=for-the-badge&logo=svelte&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-18181b?style=for-the-badge&logo=supabase&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### IA
+
+<img alt="Claude" src="https://img.shields.io/badge/Claude-18181b?style=for-the-badge&logo=claude&logoColor=white" /> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-18181b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDNsMS45IDUuOEwyMCAxMWwtNi4xIDIuMkwxMiAxOWwtMS45LTUuOEw0IDExbDYuMS0yLjJ6Ii8%2BPC9zdmc%2B&logoColor=white" />
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## Administration réseau et systèmes
+
+### Réseaux
+
+<img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco_Packet_Tracer-18181b?style=for-the-badge&logo=cisco&logoColor=white" /> <img alt="pfSense" src="https://img.shields.io/badge/pfSense-18181b?style=for-the-badge&logo=pfsense&logoColor=white" />
+
+### Systèmes
+
+<img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-18181b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjciIHJ4PSIxIi8%2BPHJlY3QgeD0iMyIgeT0iMTMiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMSIvPjxwYXRoIGQ9Ik03IDcuNWguMDFNNyAxNi41aC4wMSIvPjwvc3ZnPg%3D%3D&logoColor=white" /> <img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-18181b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iOSIgeT0iMyIgd2lkdGg9IjYiIGhlaWdodD0iNSIvPjxyZWN0IHg9IjIiIHk9IjE2IiB3aWR0aD0iNiIgaGVpZ2h0PSI1Ii8%2BPHJlY3QgeD0iMTYiIHk9IjE2IiB3aWR0aD0iNiIgaGVpZ2h0PSI1Ii8%2BPHBhdGggZD0iTTEyIDh2NE01IDE2di00aDE0djQiLz48L3N2Zz4%3D&logoColor=white" /> <img alt="Ubuntu Server" src="https://img.shields.io/badge/Ubuntu_Server-18181b?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=white" />
