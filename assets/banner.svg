@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <title>Maël Pasqueraud</title>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+    <radialGradient id="violet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7440f4" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#7440f4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="silver" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#dcd8e3" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#dcd8e3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b0b10" stop-opacity="0.92"/>
+      <stop offset="0.55" stop-color="#0b0b10" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0b0b10" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+      .wave { fill: none; stroke: #ffffff; stroke-linecap: round; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+      .waves { animation: drift 28s linear infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .caret { animation: blink 1.1s steps(1) infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0b0b10"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <!-- lueurs -->
+    <circle cx="980" cy="300" r="320" fill="url(#violet)">
+      <animate attributeName="cx" values="980;900;980" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="40" r="260" fill="url(#silver)">
+      <animate attributeName="cy" values="40;90;40" dur="18s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ondes façon marbre (2 périodes de 600px pour boucler) -->
+    <g class="waves" opacity="0.9">
+      <path class="wave" stroke-opacity="0.16" stroke-width="2"
+        d="M0 250 C150 190 450 310 600 250 S1050 190 1200 250 S1650 310 1800 250"/>
+      <path class="wave" stroke-opacity="0.10" stroke-width="10"
+        d="M0 205 C150 145 450 265 600 205 S1050 145 1200 205 S1650 265 1800 205"/>
+      <path class="wave" stroke-opacity="0.07" stroke-width="26"
+        d="M0 160 C150 220 450 100 600 160 S1050 220 1200 160 S1650 100 1800 160"/>
+      <path class="wave" stroke-opacity="0.12" stroke-width="1.5"
+        d="M0 115 C150 55 450 175 600 115 S1050 55 1200 115 S1650 175 1800 115"/>
+      <path class="wave" stroke-opacity="0.06" stroke-width="40"
+        d="M0 300 C150 360 450 240 600 300 S1050 360 1200 300 S1650 240 1800 300"/>
+    </g>
+
+    <rect width="1200" height="340" fill="url(#fade)"/>
+
+    <!-- monogramme -->
+    <g transform="translate(72 70)"><g>
+      <rect width="56" height="56" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+      <path d="M14 40 L22 17 M24 40 L33 17 Q35 13 37 17 L43 32 Q45 40 38 40"
+        fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g></g>
+
+    <text class="t" x="72" y="196" fill="#ffffff" font-size="64" font-weight="700" letter-spacing="-1.5">Maël Pasqueraud</text>
+    <text class="t" x="74" y="242" fill="#b9b4c6" font-size="24">
+      Je construis des apps desktop rapides et légères<tspan fill="#8a6ff0" class="caret">_</tspan>
+    </text>
+    <text class="t" x="74" y="284" fill="#6f6a7c" font-size="17" letter-spacing="3">RUST · TAURI · SVELTE</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
