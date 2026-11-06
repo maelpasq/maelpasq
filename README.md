@@ -1,20 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Maël Pasqueraud, apps desktop rapides et légères" />
-
-<br />
-
-<h3>
-  <img src="assets/hangar-mark.svg" width="26" align="top" alt="" />&nbsp;
-  <a href="https://github.com/maelpasq/hangar">Hangar</a>
-</h3>
-
-Tous tes jeux, un seul launcher. **Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot et Xbox** réunis au même endroit, avec leurs vraies jaquettes. Windows et macOS.
-
-<a href="https://github.com/maelpasq/hangar">
-  <img src="assets/hangar.svg" width="100%" alt="Écran d'accueil de Hangar" />
-</a>
-
-<br />
-<br />
+<img src="assets/banner.svg" width="100%" alt="Maël Pasqueraud, développeur web, SaaS et apps avec l'IA" />
 
 <p>
   <img src="https://img.shields.io/badge/Rust-16161c?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
