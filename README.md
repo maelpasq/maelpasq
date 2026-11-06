@@ -1,4 +1,4 @@
-<img src="assets/banner-mael.svg" width="100%" alt="Maël Pasqueraud, développeur web, SaaS et IA, administrateur réseau" />
+<img src="assets/banner-v2.svg" width="100%" alt="Maël Pasqueraud, développeur web, SaaS et IA, administrateur réseau" />
 
 <p align="center">
   <a href="mailto:pasqueraud.m@gmail.com"><img alt="Me contacter" src="https://img.shields.io/badge/Me_contacter-18181b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
